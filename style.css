@@ -1,0 +1,49 @@
+        
+nav ul{
+   padding: 0px;
+   margin: 0px;
+   list-style-type: none;
+    
+
+}
+
+nav li{
+
+   display: inline-block;
+   width: 200px;
+   height: 40px;
+   margin: 10px;
+   padding: 0px;
+   border: 3px blue outset;
+   text-align: center;
+   line-height: 40 px;
+   border-radius: 20px / 10px;
+   box-shadow: 6px 6px 0px black;
+   background-color: blue;
+
+
+
+}
+
+nav li : hover{
+   background-color: #DCDCDC;
+}
+
+nav li a{
+   display:block;
+   text-decoration: none;
+   color: #DCDCDC;
+
+.h2 { 
+   text-align: center;
+   display: block;
+   width: 350px;
+   margin: auto;
+   font-style: gras;
+}
+div p{ 
+ margin-top:110px; 
+ text-align:center;
+}
+
+
